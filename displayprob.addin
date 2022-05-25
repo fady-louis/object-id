@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+        <AddIn Type="Command">
+        <Assembly>displayprob.dll</Assembly>
+        <AddInId>D39C8F57-F52F-473B-814D-531E8D36EAA5</AddInId>
+        <FullClassName>displayprob.DisplayMessage</FullClassName>
+        <Text>get element and show his id</Text>  
+        <VendorId>Fady</VendorId>
+        <VendorDescription>@Fady</VendorDescription>
+		<visibilityMode>NotVisibleWhenNoActiveDocument</visibilityMode>
+        </AddIn>
+</RevitAddIns>
